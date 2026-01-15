@@ -13,8 +13,6 @@ break. sbrk(n) function increments it by n bytes. brk(addr) function
 sets it to a specific address.
 
 -- WIP --
-**Library is written, need to add showcase into main.cpp
-and complete documentation**
  * [x] Name
  * [x] Description
  * [x] Memory Map and The Program Break
